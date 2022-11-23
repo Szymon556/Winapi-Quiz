@@ -1,0 +1,28 @@
+Pytanie 1:
+Tresc pytania
+A
+B
+C
+D
+A
+Pytanie 2:
+Tresc pytania drugiego
+A
+B
+C
+D
+C
+Pytanie 3:
+Tresc pytania trzeciego
+A
+B
+C
+D
+B
+Pytanie 4:
+Tresc pytania czwartego
+A
+B
+C
+D
+C

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669040751 source:c:\users\mrsmi\onedrive\pulpit\winapi\winapi_1\project2\wina_appi2\main.cpp
+	<windows.h>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
